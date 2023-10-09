@@ -1,4 +1,6 @@
 # Hi there, I'm John
 
-I'm a student at New York University.
+I'm a finance and data science student at New York University. 
+
+
 
